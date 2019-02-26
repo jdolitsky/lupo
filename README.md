@@ -4,6 +4,8 @@
 
 `lupo` is a pre-processor for [Porter](https://porter.sh/) which allows you to build bundles with Lua.
 
+See also: [moopo](https://github.com/jdolitsky/moopo)
+
 ## Install
 
 *Note: system should already have a working Porter installation (see [install instructions](https://porter.sh/install/)). There must also be a `luac` executable in PATH (temporarily required by [Azure/golua](https://github.com/Azure/golua)).*
